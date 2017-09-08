@@ -12,8 +12,17 @@ Instalar git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 Clonar el repositorio en tu ordenador (para los pasos 4 y 5, crear previamente una carpeta llamada ADE-IngInf, entrar a dicha carpeta y abrir una terminal haciendo click derecho o shift + click derecho en windows): https://help.github.com/articles/cloning-a-repository/
 
 Videotutoriales:
- - [Primera parte](https://www.youtube.com/watch?v=0EN2wKHRcTY)
- - [Segunda parte](https://www.youtube.com/watch?v=BncoKRD0jUI)
+  - [Primera parte](https://www.youtube.com/watch?v=0EN2wKHRcTY)
+  - [Segunda parte](https://www.youtube.com/watch?v=BncoKRD0jUI)
+
+Comandos básicos:
+  - Una vez clonado el repositorio, para descargar los cambios que haya hecho alguien se usa `git pull`
+  - Si añadimos o modificamos algún archivo, hay que hacer:
+  ```
+  git add *
+  git commit -m "descripcion de los cambios que hemos hecho"
+  git push
+  ```
 
 
  ## Notas sobre el proyecto
