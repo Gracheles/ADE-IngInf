@@ -9,7 +9,7 @@ Instalar git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 (Opcional) Configurar clave SSH (Secure SHell) para no tener que introducir la cuenta y contraseña de github en cada push o pull: https://help.github.com/articles/connecting-to-github-with-ssh/
 
-Clonar el repositorio en tu ordenador (para los pasos 4 y 5, crear previamente una carpeta llamada ADE-IngInf, entrar a dicha carpeta y abrir una terminal haciendo click derecho o shift + click derecho en windows): https://help.github.com/articles/cloning-a-repository/
+Clonar el repositorio en tu ordenador: https://help.github.com/articles/cloning-a-repository/
 
 Videotutoriales:
   - [Primera parte](https://www.youtube.com/watch?v=0EN2wKHRcTY)
